@@ -1,4 +1,5 @@
 # blooket-reader 
+I am qaiik. This is just forked as BlooketHack, because people might see it more.</br>
 Automatically answers correctly, and instantly. (blooket api)</br>
 
 Racing:</br>
